@@ -34,7 +34,7 @@ Key structured inputs include:
 ### 2. Satellite Images
 - One satellite image per property
 - Images correspond to property coordinates
-- Images are pre-downloaded and stored locally
+- Images are not downloaded and directly processed to extract features
 - Each image is mapped to a property using a unique ID
 
 ---
